@@ -48,8 +48,8 @@ Text Domain: engitech
 :root {
   --ronmi-font-main: Jost, sans-serif;
   --ronmi-font-second: Libre Caslon Text, serif;
-  --ronmi-color-primary: #00776e;
-  --ronmi-color-second: #9a644b;
+  --ronmi-color-primary: #2596be;
+  --ronmi-color-second: #c4589b;
   --ronmi-color-dark: #191d1b;
   --ronmi-color-text-main: #5f6160;
   --ronmi-bg-color-screen: #fff9f5;
@@ -82,7 +82,7 @@ Text Domain: engitech
   --ronmi-btn-font-weight: 500;
   --ronmi-btn-line-height: 1;
   --ronmi-color-link: #191d1b;
-  --ronmi-color-link-hover: #00776e;
+  --ronmi-color-link-hover: #2596be;
   --ronmi-arrow-slider-color: #b6b5b4;
   --ronmi-bg-body-dark-scheme: #0b0b0d;
   --ronmi-bg-color-screen-dark-scheme: rgba(255,255,255,0.1);
