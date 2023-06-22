@@ -174,7 +174,7 @@ p {
     font-family: "Palatino Linotype", Sans-serif;
 }
 .octf-btn.octf-btn-primary {
-	width: 260px;
+	width: auto;
     font-family: "Lexend", Sans-serif;
     font-size: 16px;
     text-transform: uppercase;
